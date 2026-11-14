@@ -210,4 +210,4 @@ This repository serves as the official landing page for ESET Smart Security. The
 **Get the most recent version of ESET Smart Security today!**
 
 ---
-**Last updated:** 2026-11-14 01:17:32 UTC
+**Last updated:** 2026-11-14 08:38:49 UTC
